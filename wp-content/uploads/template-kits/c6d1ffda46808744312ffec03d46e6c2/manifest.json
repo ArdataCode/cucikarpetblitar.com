@@ -1,0 +1,1837 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Sanica",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage V1",
+            "screenshot": "screenshots\/homepage-v1.jpg",
+            "source": "templates\/homepage-v1.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage v2",
+            "screenshot": "screenshots\/homepage-v2.jpg",
+            "source": "templates\/homepage-v2.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/template-kit\/homepage-v2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Service Detail",
+            "screenshot": "screenshots\/service-detail.jpg",
+            "source": "templates\/service-detail.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/template-kit\/service-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Projects",
+            "screenshot": "screenshots\/projects.jpg",
+            "source": "templates\/projects.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/template-kit\/projects\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Project Detail",
+            "screenshot": "screenshots\/project-detail.jpg",
+            "source": "templates\/project-detail.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/template-kit\/project-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Theme Builder \u2013 Header (Elementor Pro)",
+            "screenshot": "screenshots\/theme-builder-header-elementor-pro-.jpg",
+            "source": "templates\/theme-builder-header-elementor-pro-.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/?elementor_library=theme-builder-header-elementor-pro",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Theme Builder \u2013 Footer (Elementor Pro)",
+            "screenshot": "screenshots\/theme-builder-footer-elementor-pro-.jpg",
+            "source": "templates\/theme-builder-footer-elementor-pro-.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/?elementor_library=theme-builder-footer-elementor-pro",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.5.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.3.2",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "bg-dark-5.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/bg-dark-5-800x632.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage V1"
+                },
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 172932,
+            "dimensions": [
+                1147,
+                906
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "water-and-wastewater-pipeline-installation-01.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/water-and-wastewater-pipeline-installation-01-800x628.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage V1"
+                }
+            ],
+            "filesize": 232640,
+            "dimensions": [
+                1800,
+                1413
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/water-and-wastewater-pipeline-installation-2QDQNAT"
+        },
+        {
+            "filename": "plumber-fitting-pipes-of-tools-and-equipment-in-as-2021-08-30-23-33-50-utc-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/plumber-fitting-pipes-of-tools-and-equipment-in-as-2021-08-30-23-33-50-utc-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage V1"
+                }
+            ],
+            "filesize": 104676,
+            "dimensions": [
+                1024,
+                683
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/plumber-fitting-pipes-of-tools-and-equipment-in-as-PYPM8VQ"
+        },
+        {
+            "filename": "young-male-plumber-holding-pipe-wrench-on-a-constr-2021-10-14-23-13-34-utc-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/young-male-plumber-holding-pipe-wrench-on-a-constr-2021-10-14-23-13-34-utc-1-800x683.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage V1"
+                }
+            ],
+            "filesize": 99981,
+            "dimensions": [
+                1024,
+                874
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-male-plumber-holding-pipe-wrench-on-a-constr-WTCVS82"
+        },
+        {
+            "filename": "wrench.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/wrench.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage V1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 1342,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/50-plumbing-icons-8V29L5K"
+        },
+        {
+            "filename": "pipes.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/pipes.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage V1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 1672,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/50-plumbing-icons-8V29L5K"
+        },
+        {
+            "filename": "water-heater-1.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/water-heater-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage V1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 2173,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/50-plumbing-icons-8V29L5K"
+        },
+        {
+            "filename": "sink.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/sink.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage V1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 2592,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/50-plumbing-icons-8V29L5K"
+        },
+        {
+            "filename": "pipes-2.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/pipes-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage V1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 1953,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/50-plumbing-icons-8V29L5K"
+        },
+        {
+            "filename": "toilet.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/toilet.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage V1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 1637,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/50-plumbing-icons-8V29L5K"
+        },
+        {
+            "filename": "element-3.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/element-3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage V1"
+                },
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 1132,
+            "dimensions": [
+                175,
+                175
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "side-view-of-male-plumber-in-working-overall-fixin-2021-09-03-14-13-07-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/side-view-of-male-plumber-in-working-overall-fixin-2021-09-03-14-13-07-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage V1"
+                },
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 82603,
+            "dimensions": [
+                1024,
+                684
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/side-view-of-male-plumber-in-working-overall-fixin-L7KCB9J"
+        },
+        {
+            "filename": "author-3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/author-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage V1"
+                },
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 26960,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-glad-young-afro-american-woman-laughs--XPZF67S"
+        },
+        {
+            "filename": "author-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/author-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage V1"
+                },
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 20270,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/isolated-shot-of-cheerful-european-man-with-bristl-7V47B5P"
+        },
+        {
+            "filename": "element-4.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/element-4.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage V1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 1121,
+            "dimensions": [
+                175,
+                175
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "repair-and-replacement-of-the-pipeline-in-minsk-re-2021-08-30-00-54-36-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/repair-and-replacement-of-the-pipeline-in-minsk-re-2021-08-30-00-54-36-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage V1"
+                },
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                }
+            ],
+            "filesize": 146653,
+            "dimensions": [
+                1024,
+                683
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/repair-and-replacement-of-the-pipeline-in-minsk-re-NLFKNFV"
+        },
+        {
+            "filename": "crane-2021-08-30-06-14-36-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/crane-2021-08-30-06-14-36-utc-800x498.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage V1"
+                },
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                }
+            ],
+            "filesize": 147286,
+            "dimensions": [
+                1024,
+                638
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/crane-K9CPRFB"
+        },
+        {
+            "filename": "repairing-sink-pipe-in-the-kitchen-pipes-of-with-i-2021-09-04-10-27-45-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/repairing-sink-pipe-in-the-kitchen-pipes-of-with-i-2021-09-04-10-27-45-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage V1"
+                },
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                }
+            ],
+            "filesize": 68053,
+            "dimensions": [
+                1024,
+                683
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/repairing-sink-pipe-in-the-kitchen-pipes-of-with-i-N56XCDD"
+        },
+        {
+            "filename": "3d-rendering-grey-stainless-metal-bathroom-with-wh-2021-08-27-22-15-11-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/3d-rendering-grey-stainless-metal-bathroom-with-wh-2021-08-27-22-15-11-utc-800x601.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage V1"
+                },
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 167579,
+            "dimensions": [
+                1024,
+                769
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/3d-rendering-grey-stainless-metal-bathroom-with-wh-6R6YW5W"
+        },
+        {
+            "filename": "fitur-1.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/fitur-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage V1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 2410,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "fitur-3.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/fitur-3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage V1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 2531,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "fitur-2.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/fitur-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage V1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 2436,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "team-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/team-1-800x898.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage V1"
+                },
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 93248,
+            "dimensions": [
+                1024,
+                1150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-professional-plumber-in-grey-uniform-standin-HZRCK64"
+        },
+        {
+            "filename": "team-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/team-2-800x898.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage V1"
+                },
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 136041,
+            "dimensions": [
+                1024,
+                1150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-male-plumber-holding-pipe-wrench-on-a-constr-Q6K6C44"
+        },
+        {
+            "filename": "team-3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/team-3-800x898.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage V1"
+                },
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 88140,
+            "dimensions": [
+                1024,
+                1150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/plumber-in-uniform-holds-wrench-handyman-M29UADW"
+        },
+        {
+            "filename": "element-2.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/element-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage V1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 1134,
+            "dimensions": [
+                175,
+                175
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg-dark-3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/bg-dark-3-800x632.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage V1"
+                },
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 185046,
+            "dimensions": [
+                1147,
+                906
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "selective-focus-of-repairman-fixing-water-damage-w-2021-08-30-01-48-05-utc-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/selective-focus-of-repairman-fixing-water-damage-w-2021-08-30-01-48-05-utc-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                }
+            ],
+            "filesize": 196696,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/selective-focus-of-repairman-fixing-water-damage-w-7MNVJGB"
+        },
+        {
+            "filename": "cropped-shot-of-male-plumber-in-working-overall-fi-2021-09-15-01-26-35-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/cropped-shot-of-male-plumber-in-working-overall-fi-2021-09-15-01-26-35-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 44287,
+            "dimensions": [
+                1024,
+                684
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cropped-shot-of-male-plumber-in-working-overall-fi-D5HTBFQ"
+        },
+        {
+            "filename": "service-7.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/service-7.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 2185,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/50-plumbing-icons-8V29L5K"
+        },
+        {
+            "filename": "a-man-in-uniform-checking-plumbing-equipment.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/a-man-in-uniform-checking-plumbing-equipment-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 80000,
+            "dimensions": [
+                1024,
+                683
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-man-in-uniform-checking-plumbing-equipment-after-S2KFUX9"
+        },
+        {
+            "filename": "service-4d.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/service-4d.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 2079,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/50-plumbing-icons-8V29L5K"
+        },
+        {
+            "filename": "partial-view-of-male-plumber-using-plunger-and-cle-2021-08-30-02-15-55-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/partial-view-of-male-plumber-using-plunger-and-cle-2021-08-30-02-15-55-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 90047,
+            "dimensions": [
+                1024,
+                684
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/partial-view-of-male-plumber-using-plunger-and-cle-JGX48K8"
+        },
+        {
+            "filename": "service-6.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/service-6.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 2077,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/50-plumbing-icons-8V29L5K"
+        },
+        {
+            "filename": "process-1.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/process-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                }
+            ],
+            "filesize": 1829,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "process-2.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/process-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                }
+            ],
+            "filesize": 2029,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "process-3.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/process-3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                }
+            ],
+            "filesize": 2104,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "attentive-multicultural-warehouse-workers-in-safe.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/attentive-multicultural-warehouse-workers-in-safe-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 97681,
+            "dimensions": [
+                1024,
+                684
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/attentive-multicultural-warehouse-workers-in-safet-X43N5CX"
+        },
+        {
+            "filename": "play-icon-black.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/play-icon-black.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2133,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "element-1.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/element-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 1159,
+            "dimensions": [
+                175,
+                175
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "team-of-happy-architects-in-hard-hats-looking-at-c-2021-08-30-19-53-11-utc-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/team-of-happy-architects-in-hard-hats-looking-at-c-2021-08-30-19-53-11-utc-1-800x459.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 111752,
+            "dimensions": [
+                1600,
+                918
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/team-of-happy-architects-in-hard-hats-looking-at-c-393EJZZ"
+        },
+        {
+            "filename": "a-man-in-uniform-checking-plumbing-equipment-after-2021-09-24-03-42-54-utc-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/a-man-in-uniform-checking-plumbing-equipment-after-2021-09-24-03-42-54-utc-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 179637,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-man-in-uniform-checking-plumbing-equipment-after-S2KFUX9"
+        },
+        {
+            "filename": "pricing-icon-1b.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/pricing-icon-1b.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 2339,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "pricing-icon-2a.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/pricing-icon-2a.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 2491,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "pricing-icon-3a.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/pricing-icon-3a.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 2650,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "selective-focus-of-repairman-holding-plunger-in-ki-2021-09-22-01-15-41-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/selective-focus-of-repairman-holding-plunger-in-ki-2021-09-22-01-15-41-utc-800x586.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 73243,
+            "dimensions": [
+                1024,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/selective-focus-of-repairman-holding-plunger-in-ki-4TRRSZR"
+        },
+        {
+            "filename": "wrench-always-with-you-worker-set-up-electric-hea-2021-09-03-20-52-48-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/wrench-always-with-you-worker-set-up-electric-hea-2021-09-03-20-52-48-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 153492,
+            "dimensions": [
+                1400,
+                935
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/wrench-always-with-you-worker-set-up-electric-heat-A9U8QRK"
+        },
+        {
+            "filename": "play-icon.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/play-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 1827,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "benefit-1.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/benefit-1.png",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 2398,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "benefit-3.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/benefit-3.png",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 2340,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/50-plumbing-icons-8V29L5K"
+        },
+        {
+            "filename": "benefit-2.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/benefit-2.png",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 2631,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "repairing-plumbing-fixtures-2021-09-03-11-14-21-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/repairing-plumbing-fixtures-2021-09-03-11-14-21-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 69740,
+            "dimensions": [
+                1024,
+                683
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/repairing-plumbing-fixtures-EBGLSKS"
+        },
+        {
+            "filename": "features-1b.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/features-1b.png",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 2451,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "features-4a.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/features-4a.png",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 2251,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "features-2a.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/features-2a.png",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 2425,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "features-5.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/features-5.png",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 2393,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "plumber-holds-pipe-roll-in-plumbering-store-2021-08-27-09-27-30-utc-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/plumber-holds-pipe-roll-in-plumbering-store-2021-08-27-09-27-30-utc-1-800x930.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 135243,
+            "dimensions": [
+                1024,
+                1190
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/plumber-holds-pipe-roll-in-plumbering-store-SVGVBG6"
+        },
+        {
+            "filename": "repairman-in-working-overall-holding-clipboard-and-2021-09-01-14-46-14-utc-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/repairman-in-working-overall-holding-clipboard-and-2021-09-01-14-46-14-utc-1-800x511.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 131258,
+            "dimensions": [
+                1920,
+                1226
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/repairman-in-working-overall-holding-clipboard-and-APNGFBD"
+        },
+        {
+            "filename": "testimonial-image.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/testimonial-image-800x742.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 73442,
+            "dimensions": [
+                1024,
+                950
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-cheerful-woman-cleaning-rug-with-vacuu-MW3YWWQ"
+        },
+        {
+            "filename": "high-angle-view-of-young-male-plumber-fixing-sink-2021-08-29-19-46-59-utc-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/high-angle-view-of-young-male-plumber-fixing-sink-2021-08-29-19-46-59-utc-1-800x1140.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                }
+            ],
+            "filesize": 193452,
+            "dimensions": [
+                1024,
+                1459
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/high-angle-view-of-young-male-plumber-fixing-sink--F8KNEJV"
+        },
+        {
+            "filename": "gallery-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/gallery-2-800x625.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                }
+            ],
+            "filesize": 114352,
+            "dimensions": [
+                1024,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/selective-focus-of-repairman-fixing-water-damage-i-5Z54BUH"
+        },
+        {
+            "filename": "gallery-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/gallery-1-800x625.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                }
+            ],
+            "filesize": 111970,
+            "dimensions": [
+                1024,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/partial-view-of-male-plumber-using-plunger-and-cle-JGX48K8"
+        },
+        {
+            "filename": "gallery-3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/gallery-3-800x625.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                }
+            ],
+            "filesize": 103787,
+            "dimensions": [
+                1024,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cropped-view-of-handyman-working-in-kitchen-near-t-PGQDPN7"
+        },
+        {
+            "filename": "two-positive-young-male-engineers-in-hard-hats-smi.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/two-positive-young-male-engineers-in-hard-hats-smi-800x398.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 155381,
+            "dimensions": [
+                1920,
+                955
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/two-positive-young-male-engineers-in-hard-hats-smi-X7UVT7P"
+        },
+        {
+            "filename": "team-6-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/team-6-1-800x898.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 100619,
+            "dimensions": [
+                1024,
+                1150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/plumber-shows-pipe-wrenches-in-plumbering-store-4CZ3E5S"
+        },
+        {
+            "filename": "team-5-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/team-5-1-800x898.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 134358,
+            "dimensions": [
+                1024,
+                1150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-handsome-plumber-standing-with-crossed-arm-Y99Z6GE"
+        },
+        {
+            "filename": "team-4-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/team-4-1-800x898.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 67897,
+            "dimensions": [
+                1024,
+                1150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/plumber-in-uniform-fixing-faucet-in-the-kitchen-S9W633D"
+        },
+        {
+            "filename": "contact-1a.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/contact-1a.png",
+            "templates": [
+                {
+                    "source": "templates\/theme-builder-header-elementor-pro-.json",
+                    "name": "Theme Builder \u2013 Header (Elementor Pro)"
+                }
+            ],
+            "filesize": 968,
+            "dimensions": [
+                65,
+                65
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "contact-2a.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/contact-2a.png",
+            "templates": [
+                {
+                    "source": "templates\/theme-builder-header-elementor-pro-.json",
+                    "name": "Theme Builder \u2013 Header (Elementor Pro)"
+                }
+            ],
+            "filesize": 901,
+            "dimensions": [
+                65,
+                65
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "contact-3a.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/plumbingkit\/wp-content\/uploads\/sites\/60\/2021\/12\/contact-3a.png",
+            "templates": [
+                {
+                    "source": "templates\/theme-builder-header-elementor-pro-.json",
+                    "name": "Theme Builder \u2013 Header (Elementor Pro)"
+                }
+            ],
+            "filesize": 854,
+            "dimensions": [
+                65,
+                65
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        }
+    ]
+}

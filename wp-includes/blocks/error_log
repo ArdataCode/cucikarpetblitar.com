@@ -1,0 +1,4 @@
+[27-Jan-2024 20:19:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/cucikarpetblitar.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/cucikarpetblitar.com/wp-includes/blocks/index.php on line 8
